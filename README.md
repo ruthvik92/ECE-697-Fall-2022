@@ -9,7 +9,7 @@ ECE-697-Fall-2022
 * [vision-transformers-cifar10](https://github.com/ruthvik92/vision-transformers-cifar10)
 * [ViT-pytorch-1](https://github.com/ruthvik92/ViT-pytorch-1)
 
-**Some cool schedulers**
+**Some useful schedulers**
 * [pytorch_warmup](https://github.com/ruthvik92/pytorch_warmup)
 * [pytorch-cosine-annealing-with-warmup](https://github.com/ruthvik92/pytorch-cosine-annealing-with-warmup)
 
