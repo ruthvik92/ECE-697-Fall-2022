@@ -1,0 +1,12 @@
+git clone https://github.com/Tony-Y/pytorch_warmup.git
+ls
+cd pytorch_warmup/
+ls
+python setup.py install
+python3 setup.py install
+sudo python3 setup.py install
+pip install torch-summary
+pip install einops
+pip install 'git+https://github.com/katsura-jp/pytorch-cosine-annealing-with-warmup'
+history
+
