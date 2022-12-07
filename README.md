@@ -14,7 +14,8 @@ ECE-697-Fall-2022
 * [pytorch-cosine-annealing-with-warmup](https://github.com/ruthvik92/pytorch-cosine-annealing-with-warmup)
 
 # Note
-Our implementation will borrow many things from the above repositories but we will be adding/modifying according to our needs.
+* Our implementation will borrow many things from the above repositories but we will be adding/modifying according to our needs.
+* Note that sentiment classification transformer only works when using the pytorch and torchtext versions displayed in the `requirements.txt`.
 
 # Some details
 * Add `sys.path.insert(0,'/home/,user-name>/ECE-697-Fall-2022')` to the top sections of notebooks.
