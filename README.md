@@ -15,3 +15,7 @@ ECE-697-Fall-2022
 
 # Note
 Our implementation will borrow many things from the above repositories but we will be adding/modifying according to our needs.
+
+# Some details
+* Add `sys.path.insert(0,'/home/,user-name>/ECE-697-Fall-2022')` to the top sections of notebooks.
+* `notebooks` directory has vision and sentiment classification transformer notebooks. 
