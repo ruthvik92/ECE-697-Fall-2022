@@ -1,12 +1,11 @@
+Do not forget to activate your virtualenv, if you have any before running these commands
+Open the linux terminal and enter these commands one by one
 git clone https://github.com/Tony-Y/pytorch_warmup.git
-ls
 cd pytorch_warmup/
-ls
-python setup.py install
-python3 setup.py install
+python setup.py install (if in virtualenv)
+python3 setup.py install (if in system env)
 sudo python3 setup.py install
 pip install torch-summary
 pip install einops
 pip install 'git+https://github.com/katsura-jp/pytorch-cosine-annealing-with-warmup'
-history
-
+pip install matplotlib
